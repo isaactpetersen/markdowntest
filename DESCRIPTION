@@ -1,0 +1,11 @@
+Package: placeholder
+Title: markdowntest
+Version: 0.0.1
+Imports:
+  knitr,
+  rmarkdown,
+  dplyr,
+  ggplot2,
+  tidyverse,
+  readr,
+  psych
