@@ -9,6 +9,8 @@ output:
     number_sections: true
   github_document:
     html_preview: FALSE
+	toc: true
+	number_sections: true
 ---
 
 ```{r setup, include = FALSE}
