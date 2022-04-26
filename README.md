@@ -3,9 +3,15 @@ INSERT TITLE
 INSERT AUTHOR NAME
 April 26, 2022
 
-# Heading A
+-   [1 Heading A](#1-heading-a)
+    -   [1.1 R Markdown](#11-r-markdown)
+    -   [1.2 Including Plots](#12-including-plots)
+-   [2 Heading B](#2-heading-b)
+    -   [2.1 Subheading](#21-subheading)
 
-## R Markdown
+# 1 Heading A
+
+## 1.1 R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
@@ -27,7 +33,7 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-## Including Plots
+## 1.2 Including Plots
 
 You can also embed plots, for example:
 
@@ -36,7 +42,7 @@ You can also embed plots, for example:
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
 
-# Heading B
+# 2 Heading B
 
 ![
 y = mx + b
@@ -44,6 +50,6 @@ y = mx + b
 y = mx + b
 ")
 
-## Subheading
+## 2.1 Subheading
 
 Some text More text
